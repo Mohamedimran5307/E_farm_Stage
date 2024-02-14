@@ -1,0 +1,12 @@
+2023-06-01 12:39:28,068 - Basepage.py:[27] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2023-06-01 12:39:29,247 - Basepage.py:[27] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2023-06-01 12:39:30,768 - Basepage.py:[27] - [INFO] - Clicking on element: MOBILE_NUMBER_FIELD_ID
+2023-06-01 12:39:32,517 - Basepage.py:[46] - [INFO] - Typing in an elementEntering the value as:9964486065
+2023-06-01 12:39:33,300 - Basepage.py:[27] - [INFO] - Clicking on element: SEND_OTP_BUTTON_ID
+2023-06-01 12:39:36,363 - Basepage.py:[46] - [INFO] - Typing in an elementEntering the value as:1
+2023-06-01 12:39:38,493 - Basepage.py:[46] - [INFO] - Typing in an elementEntering the value as:1
+2023-06-01 12:39:40,376 - Basepage.py:[46] - [INFO] - Typing in an elementEntering the value as:1
+2023-06-01 12:39:42,373 - Basepage.py:[46] - [INFO] - Typing in an elementEntering the value as:1
+2023-06-01 12:39:44,360 - Basepage.py:[46] - [INFO] - Typing in an elementEntering the value as:1
+2023-06-01 12:39:46,395 - Basepage.py:[46] - [INFO] - Typing in an elementEntering the value as:1
+2023-06-01 12:39:49,826 - Basepage.py:[56] - [INFO] - Getting text from an elementFLW_NAME_ID

@@ -1,0 +1,12 @@
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:27 Clicking on element: LANGUAGE_OPTION_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:27 Clicking on element: CONTINUE_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:27 Clicking on element: MOBILE_NUMBER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:46 Typing in an elementEntering the value as:9964486065
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:27 Clicking on element: SEND_OTP_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:46 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:46 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:46 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:46 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:46 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:46 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:56 Getting text from an elementFLW_NAME_ID
