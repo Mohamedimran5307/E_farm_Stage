@@ -3,24 +3,24 @@ import time
 import allure
 from appium import webdriver
 from Pageobjects.LanguagePage import Language_page
-from Pageobjects.Login_Usename_Page import Login_Usename_Page
+from Pageobjects.Login_Page import Login_Page
 
-from Testcases.test_base import Basetest
-from Testcases.conftest import appium_driver
+from Testcases.test_base import Basetest_1
+from Testcases.conftest import appium_driver_1
 from ConfigurationData.config import Testdata
 from allure_commons.types import AttachmentType
 
 from Utilities.scroll_util import ScrollUtil
 
 
-class Test_login_page(Basetest):
+class Test_login_page(Basetest_1):
 
     def test_Login_functionality(self):
-        login_page = Login_Usename_Page(self.driver)
-        login_page.username_page(Testdata.username,Testdata.password)
-        extracted_text = login_page.EA_USER_TITLE()
+        language_page = Language_page(self.driver)
+        language_page.language_selection_page().user_number_page(Testdata.usernumber,Testdata.OTP_1,Testdata.OTP_2,Testdata.OTP_3,Testdata.OTP_4,Testdata.OTP_5,Testdata.OTP_6,)
+        extracted_text = language_page.LOGGED_USER_NAME()
         print(extracted_text)
-        expected_text = "Welcome, , ( EA )"
+        expected_text = "Hello, Afreen President"
         if expected_text == extracted_text:
             allure.attach(self.driver.get_screenshot_as_png(), name=" Login is successful",
                           attachment_type=AttachmentType.PNG)
@@ -29,7 +29,6 @@ class Test_login_page(Basetest):
             allure.attach(self.driver.get_screenshot_as_png(), name=" Login is failed",
                           attachment_type=AttachmentType.PNG)
             assert False, " Login is failed"
-
     # def test_Order_Functionality(self):
     #     language_page = Language_page(self.driver)
     #     language_page.language_selection_page().username_page(Testdata.usernumber)

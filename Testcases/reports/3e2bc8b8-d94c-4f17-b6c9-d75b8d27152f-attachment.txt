@@ -1,0 +1,69 @@
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: LANGUAGE_OPTION_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: CONTINUE_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:6666777711
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: REQUEST_OTP_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_1_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_2_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_3_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_4_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_5_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_6_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_FARMER_REGISTRY_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ADD_NEW_FARMER_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ALLOW_TO_PICTURES_RECORD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ALLOW_TO_PHOTOS_MEDIA_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_FARMER_IMAGE_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_GALLERY_OPTION_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_GALLERY_ICON_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_ALBUM_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_GALLERY_IMAGE_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SHAREHOLDER_TOGGLE_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: FIRST_NAME_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:wadvkvvv
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SECOND_NAME_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:njgct
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: DATE_PICKER_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: DATE_PICKER_OK_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: GENDER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_PRODUCER_GROUP_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: NO_OF_SHARES_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:296784
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_DiSTRICT_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_BLOCK_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_VILLAGE_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_FLW_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_AADHAR_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:733226591853
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_SMARTPHONE_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_MOBILE_NUMBER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:7521268685
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_WHATSAPP_NUMBER_CHECKBOX_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_EDUCATION_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_LANDHOLDING_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:166
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_IRRIGATED_LAND_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:538
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_RAINFED_LAND_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:584
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_MAJOR_CROP_1_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:nwqmoe
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_MAJOR_CROP_2_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:juzruvhr
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_NO_OF_COWS_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:7863
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_NO_OF_GOATS_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:55103
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_NO_OF_CHICKS_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:130400
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: NEXT_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: CONSENT_YES_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SEARCH_TEXT_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:wadvkvvv
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:64 Getting text from an elementNEW_ADDED_FARMER_XPATH

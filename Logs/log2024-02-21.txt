@@ -1,0 +1,5 @@
+2024-02-21 11:08:25,169 - Basepage.py:[31] - [INFO] - Clicking on element: USER_NUMBER_FIELD_ID
+2024-02-21 11:08:26,051 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:aiyappa@gmail.com
+2024-02-21 11:08:26,982 - Basepage.py:[31] - [INFO] - Clicking on element: PASSWORD_FIELD_ID
+2024-02-21 11:08:28,089 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:56001955
+2024-02-21 11:08:29,051 - Basepage.py:[31] - [INFO] - Clicking on element: LOGIN_BUTTON_ID

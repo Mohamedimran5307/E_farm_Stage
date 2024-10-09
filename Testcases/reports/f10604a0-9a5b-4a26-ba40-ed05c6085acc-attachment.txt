@@ -1,0 +1,13 @@
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: LANGUAGE_OPTION_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: CONTINUE_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:6666777711
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: REQUEST_OTP_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: LANGUAGE_OPTION_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: CONTINUE_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:6666777711
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: REQUEST_OTP_ID
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dbf5b70>: Failed to establish a new connection: [Errno 61] Connection refused')': /wd/hub/session/694f014f-ac9a-4f2b-afd2-d3d53d173f93
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dbf5c30>: Failed to establish a new connection: [Errno 61] Connection refused')': /wd/hub/session/694f014f-ac9a-4f2b-afd2-d3d53d173f93
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dbf5930>: Failed to establish a new connection: [Errno 61] Connection refused')': /wd/hub/session/694f014f-ac9a-4f2b-afd2-d3d53d173f93

@@ -1,0 +1,20 @@
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: LANGUAGE_OPTION_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: CONTINUE_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:6666777711
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: REQUEST_OTP_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_1_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_2_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_3_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_4_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_5_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_6_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_PROCUREMENT_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: CANCEL_PROCUREMENT_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: CONFIRM_CANCEL_PROCUREMENT_ID

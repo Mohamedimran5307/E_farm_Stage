@@ -1,0 +1,41 @@
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: LANGUAGE_OPTION_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: CONTINUE_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:6666777711
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: REQUEST_OTP_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_1_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_2_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_3_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_4_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_5_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: OTP_6_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_PRODUCT_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ADD_NEW_PRODUCT_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_PRODUCT_CATEGORY_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SELECT_PRODUCT_NAME_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:fdhxzfme
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: UPLOAD_PRODUCT_IMAGE_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ACCESS_TO_IMAGES_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ACCESS_TO_MEDIA_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: GALLERY_OPTION_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: GALLERY_ICON_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: ALBUM_PATH_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: GALLERY_IMAGE_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: PRODUCT_VARIETY_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:cykf
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: STOCK_AVAILABLE_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:22
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: MRP_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:1000
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: SHAREHOLDER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:800
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: NON_SHAREHOLDER_FIELD_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:54 Typing in an elementEntering the value as:900
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: PRODUCT_SAVE_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: PRODUCT_REVIEW_SUBMIT_ID

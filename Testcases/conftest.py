@@ -1,3 +1,5 @@
+import subprocess
+
 import allure
 import pytest
 from allure_commons.types import AttachmentType
@@ -30,7 +32,7 @@ from selenium.webdriver.support import expected_conditions as EC
 #
 #     # global driver
 #     driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", desired_cap)
-#     driver.implicitly_wait(10)
+#     driver.implcdicitly_wait(10)
 #     appium_driver  = init_appium_driver()
 #     yield driver
 #     driver.quit()
@@ -66,26 +68,83 @@ def pytest_runtest_makereport(item, call):
     return rep
 
 
+def clear_app_data(package_name):
+    try:
+        # Clear app data
+        subprocess.run(['adb', 'shell', 'pm', 'clear', package_name], check=True)
+        print(f"Successfully cleared data for {package_name}")
+    except subprocess.CalledProcessError as e:
+        print(f"Failed to clear app data: {e}")
+
+
+def restart_app(driver, package_name, activity_name):
+    try:
+        # Stop the app
+        driver.terminate_app(package_name)
+
+        # Start the app
+        driver.activate_app(package_name)
+
+        print(f"Successfully restarted {package_name}")
+    except Exception as e:
+        print(f"Failed to restart app: {e}")
+
+
 @pytest.fixture(scope="function")
-def appium_driver(request):
+def appium_driver_1(request):
     desired_cap = {}
     desired_cap['platformName'] = 'Android'
-    desired_cap['deviceName'] = 'LENOVO'
-    desired_cap['udid'] = "HA1AGEVG"  # YLWOI7EACAAAHQDM RZ8M50082GZ "15982498150025Y"
-    desired_cap['app'] = '/Users/shaikmohamedimran/PycharmProjects/EA_Mobile_App_POM/APP/app-stage-debug-240209102545-1.0.apk'
-    # desired_cap['appPackage'] = 'com.digitalgreen.org.d2fo'
-    # desired_cap['appActivity']= '.ui.activity.SplashActivity'
-    # desired_cap["noReset"] = True
+    desired_cap['deviceName'] = 'Samsung'
+    # desired_cap['udid'] = '192.168.29.243:5555'
+    desired_cap['udid'] = "RZ8M50082GZ"  # YLWOI7EACAAAHQDM  "HA1AGEVG"
+    desired_cap['app'] = '/Users/shaikmohamedimran/PycharmProjects/E_farm_Mobile_D2FO/APP/EFarm_Latest_01.apk'
+    desired_cap['automationName'] = 'uiautomator2'
+    desired_cap['appPackage'] = 'com.digitalgreen.org.d2fo'
+    desired_cap['appActivity'] = '.ui.activity.SplashActivity'
+    desired_cap['noReset'] = True
+    #
     desired_cap["appium:newCommandTimeout"] = 3600
     driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", desired_cap)
-    # # Execute an ADB shell command
-    # adb_shell_command = "run-as com.digitalgreen.org.d2fo rm -rf"
-    # result = driver.execute_script('mobile: shell', {'command': adb_shell_command})
-    # print("Note",result)
+
+    # Clear app data
+    # clear_app_data(desired_cap['appPackage'])
+    #
+    # # Restart the app
+    # restart_app(driver, desired_cap['appPackage'], desired_cap['appActivity'])
+
     request.cls.driver = driver
     driver.implicitly_wait(10)
     yield driver
     driver.quit()
+
+
+def appium_driver_2(request):
+    desired_cap = {}
+    desired_cap['platformName'] = 'Android'
+    desired_cap['deviceName'] = 'Samsung'
+    # desired_cap['udid'] = '192.168.29.243:5555'
+    desired_cap['udid'] = "RZ8M50082GZ"  # YLWOI7EACAAAHQDM  "HA1AGEVG"
+    desired_cap['app'] = '/Users/shaikmohamedimran/PycharmProjects/E_farm_Mobile_D2FO/APP/EFarm_Latest_01.apk'
+    desired_cap['automationName'] = 'uiautomator2'
+    desired_cap['appPackage'] = 'com.digitalgreen.org.d2fo'
+    desired_cap['appActivity'] = '.ui.activity.SplashActivity'
+    desired_cap['noReset'] = False
+    #
+    desired_cap["appium:newCommandTimeout"] = 3600
+    driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", desired_cap)
+
+    # Clear app data
+    clear_app_data(desired_cap['appPackage'])
+
+    # Restart the app
+    restart_app(driver, desired_cap['appPackage'], desired_cap['appActivity'])
+
+    request.cls.driver = driver
+    driver.implicitly_wait(10)
+    yield driver
+    driver.quit()
+
+
 
 # @pytest.fixture()
 # def log_on_failure(request, appium_driver):

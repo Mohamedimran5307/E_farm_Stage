@@ -1,0 +1,246 @@
+2024-09-03 11:16:36,461 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:16:36,789 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:16:38,827 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:16:40,701 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:16:42,279 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:16:46,263 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_1_ID
+2024-09-03 11:16:47,582 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:16:49,671 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_2_ID
+2024-09-03 11:16:50,740 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:16:52,738 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_3_ID
+2024-09-03 11:16:53,800 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:16:55,754 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_4_ID
+2024-09-03 11:16:56,804 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:16:58,872 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_5_ID
+2024-09-03 11:16:59,908 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:17:01,976 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_6_ID
+2024-09-03 11:17:03,115 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:17:47,362 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:17:49,043 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:17:50,847 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:17:52,778 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:17:54,198 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:17:58,551 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_1_ID
+2024-09-03 11:18:00,295 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:18:02,487 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_2_ID
+2024-09-03 11:18:03,555 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:18:05,504 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_3_ID
+2024-09-03 11:18:06,605 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:18:08,716 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_4_ID
+2024-09-03 11:18:09,725 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:18:11,705 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_5_ID
+2024-09-03 11:18:12,756 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:18:14,865 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_6_ID
+2024-09-03 11:18:15,941 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:19:00,027 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:19:00,312 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:19:02,099 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:19:03,848 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:19:05,333 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:19:07,730 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_1_ID
+2024-09-03 11:19:09,694 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:19:11,823 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_2_ID
+2024-09-03 11:19:13,415 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:19:15,450 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_3_ID
+2024-09-03 11:19:16,564 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:19:18,565 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_4_ID
+2024-09-03 11:19:19,784 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:19:21,684 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_5_ID
+2024-09-03 11:19:22,723 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:19:24,784 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_6_ID
+2024-09-03 11:19:25,048 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:19:53,824 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_ORDER_ID
+2024-09-03 11:19:58,999 - Basepage.py:[31] - [INFO] - Clicking on element: TAKE_NEW_ORDERS_ID
+2024-09-03 11:20:32,266 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:20:33,480 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:20:36,428 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:20:37,454 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:20:38,914 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:22:26,454 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:22:26,748 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:22:32,222 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:22:34,100 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:22:35,588 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:22:39,026 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_1_ID
+2024-09-03 11:22:40,766 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:22:43,124 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_2_ID
+2024-09-03 11:22:44,798 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:22:46,996 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_3_ID
+2024-09-03 11:22:48,154 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:22:50,100 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_4_ID
+2024-09-03 11:22:51,216 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:22:53,208 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_5_ID
+2024-09-03 11:22:54,393 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:22:56,272 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_6_ID
+2024-09-03 11:22:57,414 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:23:42,670 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:23:43,908 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:32:37,058 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:32:37,351 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:32:38,907 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:32:41,072 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:32:42,651 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:32:46,021 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_1_ID
+2024-09-03 11:32:46,329 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:32:48,740 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_2_ID
+2024-09-03 11:32:49,925 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:32:51,995 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_3_ID
+2024-09-03 11:32:53,156 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:32:55,046 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_4_ID
+2024-09-03 11:32:55,350 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:32:57,391 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_5_ID
+2024-09-03 11:32:58,561 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:33:00,411 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_6_ID
+2024-09-03 11:33:02,442 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:33:27,385 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_FARMER_REGISTRY_ID
+2024-09-03 11:33:33,386 - Basepage.py:[31] - [INFO] - Clicking on element: ADD_NEW_FARMER_ID
+2024-09-03 11:33:36,569 - Basepage.py:[31] - [INFO] - Clicking on element: ALLOW_TO_PICTURES_RECORD_ID
+2024-09-03 11:33:37,646 - Basepage.py:[31] - [INFO] - Clicking on element: ALLOW_TO_PHOTOS_MEDIA_ID
+2024-09-03 11:33:39,850 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_FARMER_IMAGE_ID
+2024-09-03 11:33:42,049 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_GALLERY_OPTION_ID
+2024-09-03 11:33:47,023 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_GALLERY_ICON_XPATH
+2024-09-03 11:33:49,250 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_ALBUM_XPATH
+2024-09-03 11:33:51,615 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_GALLERY_IMAGE_XPATH
+2024-09-03 11:33:53,856 - Basepage.py:[31] - [INFO] - Clicking on element: SHAREHOLDER_TOGGLE_BUTTON_ID
+2024-09-03 11:33:56,112 - Basepage.py:[31] - [INFO] - Clicking on element: FIRST_NAME_FIELD_ID
+2024-09-03 11:33:58,379 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:wksdbcjf
+2024-09-03 11:34:01,869 - Basepage.py:[31] - [INFO] - Clicking on element: SECOND_NAME_FIELD_ID
+2024-09-03 11:34:04,128 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:xltai
+2024-09-03 11:34:05,805 - Basepage.py:[31] - [INFO] - Clicking on element: DATE_PICKER_ID
+2024-09-03 11:34:07,209 - Basepage.py:[31] - [INFO] - Clicking on element: DATE_PICKER_OK_BUTTON_ID
+2024-09-03 11:34:09,584 - Basepage.py:[31] - [INFO] - Clicking on element: GENDER_FIELD_ID
+2024-09-03 11:34:14,280 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_PRODUCER_GROUP_ID
+2024-09-03 11:34:22,437 - Basepage.py:[31] - [INFO] - Clicking on element: NO_OF_SHARES_FIELD_ID
+2024-09-03 11:34:22,678 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:855393
+2024-09-03 11:34:28,428 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_DiSTRICT_ID
+2024-09-03 11:34:33,835 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_BLOCK_ID
+2024-09-03 11:34:37,907 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_VILLAGE_ID
+2024-09-03 11:34:45,136 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_FLW_ID
+2024-09-03 11:34:53,041 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_AADHAR_ID
+2024-09-03 11:34:53,279 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:337235748893
+2024-09-03 11:34:57,861 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_SMARTPHONE_ID
+2024-09-03 11:35:05,096 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_MOBILE_NUMBER_FIELD_ID
+2024-09-03 11:35:05,299 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1164894536
+2024-09-03 11:35:07,515 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_WHATSAPP_NUMBER_CHECKBOX_ID
+2024-09-03 11:35:08,421 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_EDUCATION_ID
+2024-09-03 11:35:17,524 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_LANDHOLDING_FIELD_ID
+2024-09-03 11:35:18,732 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:463
+2024-09-03 11:35:21,173 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_IRRIGATED_LAND_FIELD_ID
+2024-09-03 11:35:21,474 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:264
+2024-09-03 11:35:24,462 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_RAINFED_LAND_FIELD_ID
+2024-09-03 11:35:24,665 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:211
+2024-09-03 11:35:27,881 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_MAJOR_CROP_1_ID
+2024-09-03 11:35:28,171 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:nvifir
+2024-09-03 11:35:32,127 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_MAJOR_CROP_2_ID
+2024-09-03 11:35:32,460 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:lspeejvs
+2024-09-03 11:35:35,555 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_NO_OF_COWS_ID
+2024-09-03 11:35:35,799 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:4949
+2024-09-03 11:35:37,318 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_NO_OF_GOATS_ID
+2024-09-03 11:35:37,554 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:02641
+2024-09-03 11:35:40,334 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_NO_OF_CHICKS_ID
+2024-09-03 11:35:40,586 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:397146
+2024-09-03 11:35:43,712 - Basepage.py:[31] - [INFO] - Clicking on element: NEXT_BUTTON_ID
+2024-09-03 11:35:44,818 - Basepage.py:[31] - [INFO] - Clicking on element: CONSENT_YES_ID
+2024-09-03 11:35:56,220 - Basepage.py:[31] - [INFO] - Clicking on element: SEARCH_TEXT_FIELD_ID
+2024-09-03 11:35:59,198 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:wksdbcjf
+2024-09-03 11:36:04,930 - Basepage.py:[64] - [INFO] - Getting text from an elementNEW_ADDED_FARMER_XPATH
+2024-09-03 11:36:27,221 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:36:27,519 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:36:28,887 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:36:30,351 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:36:31,907 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:36:34,381 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_1_ID
+2024-09-03 11:36:37,167 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:36:39,399 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_2_ID
+2024-09-03 11:36:40,554 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:36:42,371 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_3_ID
+2024-09-03 11:36:43,521 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:36:45,553 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_4_ID
+2024-09-03 11:36:46,718 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:36:48,565 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_5_ID
+2024-09-03 11:36:49,713 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:36:51,699 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_6_ID
+2024-09-03 11:36:51,993 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:37:12,854 - Basepage.py:[64] - [INFO] - Getting text from an elementLOGGED_USER_NAME_ID
+2024-09-03 11:37:32,053 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:37:32,316 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:37:33,871 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:37:35,815 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:37:37,285 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:37:40,493 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_1_ID
+2024-09-03 11:37:41,445 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:37:43,842 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_2_ID
+2024-09-03 11:37:45,535 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:37:47,621 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_3_ID
+2024-09-03 11:37:48,784 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:37:50,716 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_4_ID
+2024-09-03 11:37:51,863 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:37:53,914 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_5_ID
+2024-09-03 11:37:55,074 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:37:57,023 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_6_ID
+2024-09-03 11:37:58,174 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:38:19,897 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_ORDER_ID
+2024-09-03 11:38:25,197 - Basepage.py:[31] - [INFO] - Clicking on element: TAKE_NEW_ORDERS_ID
+2024-09-03 11:38:30,526 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_FARMER_XPATH
+2024-09-03 11:38:32,842 - Basepage.py:[31] - [INFO] - Clicking on element: ADD_TO_CART_XPATH
+2024-09-03 11:38:35,082 - Basepage.py:[31] - [INFO] - Clicking on element: ORDER_CONTINUE_BUTTON_ID
+2024-09-03 11:38:37,315 - Basepage.py:[31] - [INFO] - Clicking on element: LOCATION_ORDER_ID
+2024-09-03 11:38:40,559 - Basepage.py:[31] - [INFO] - Clicking on element: SUBMIT_BUTTON_ID
+2024-09-03 11:39:11,787 - Basepage.py:[64] - [INFO] - Getting text from an elementSUCCESS_TEXT_ID
+2024-09-03 11:39:32,298 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:39:32,567 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:39:34,008 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:39:35,828 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:39:37,374 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:39:40,653 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_1_ID
+2024-09-03 11:39:41,670 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:39:43,957 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_2_ID
+2024-09-03 11:39:45,640 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:39:47,675 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_3_ID
+2024-09-03 11:39:48,465 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:39:50,695 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_4_ID
+2024-09-03 11:39:51,851 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:39:54,024 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_5_ID
+2024-09-03 11:39:55,184 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:39:57,107 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_6_ID
+2024-09-03 11:39:58,550 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 11:40:18,846 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_ORDER_ID
+2024-09-03 11:40:24,551 - Basepage.py:[31] - [INFO] - Clicking on element: CANCEL_ORDER_ID
+2024-09-03 11:40:25,557 - Basepage.py:[31] - [INFO] - Clicking on element: CONFIRM_CANCEL_ORDER_ID
+2024-09-03 11:40:26,824 - Basepage.py:[64] - [INFO] - Getting text from an elementORDER_CANCELLED_TEXT_ID
+2024-09-03 11:40:45,744 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:40:46,024 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:40:47,554 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:40:50,073 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:40:51,569 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 11:41:19,719 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 11:41:19,998 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 11:41:21,530 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 11:41:23,261 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 11:41:24,734 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 12:35:29,146 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 12:35:29,463 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 12:35:30,869 - Basepage.py:[31] - [INFO] - Clicking on element: ENTER_PHONE_NUMBER_FIELD_ID
+2024-09-03 12:35:32,859 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:6666777711
+2024-09-03 12:35:34,415 - Basepage.py:[31] - [INFO] - Clicking on element: REQUEST_OTP_ID
+2024-09-03 12:35:36,885 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_1_ID
+2024-09-03 12:35:38,077 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 12:35:40,947 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_2_ID
+2024-09-03 12:35:42,637 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 12:35:44,727 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_3_ID
+2024-09-03 12:35:45,899 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 12:35:47,822 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_4_ID
+2024-09-03 12:35:48,965 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 12:35:51,005 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_5_ID
+2024-09-03 12:35:52,124 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 12:35:54,189 - Basepage.py:[31] - [INFO] - Clicking on element: OTP_6_ID
+2024-09-03 12:35:55,362 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:1
+2024-09-03 12:36:17,643 - Basepage.py:[64] - [INFO] - Getting text from an elementLOGGED_USER_NAME_ID
+2024-09-03 12:36:58,762 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 12:36:59,062 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 12:37:00,401 - Basepage.py:[64] - [INFO] - Getting text from an elementEFARM_TITLE_ID
+2024-09-03 13:33:18,489 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 13:33:18,762 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 13:36:22,045 - Basepage.py:[31] - [INFO] - Clicking on element: LANGUAGE_OPTION_XPATH
+2024-09-03 13:36:22,349 - Basepage.py:[31] - [INFO] - Clicking on element: CONTINUE_BUTTON_ID
+2024-09-03 13:36:23,674 - Basepage.py:[64] - [INFO] - Getting text from an elementEFARM_TITLE_ID

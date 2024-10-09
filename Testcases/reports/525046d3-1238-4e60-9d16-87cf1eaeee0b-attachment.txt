@@ -1,0 +1,5 @@
+Success
+Successfully cleared data for com.digitalgreen.org.d2fo
+Successfully restarted com.digitalgreen.org.d2fo
+imran <appium.webdriver.common.touch_action.TouchAction object at 0x10d5727a0>
+wadvkvvv njgct-----wadvkvvv

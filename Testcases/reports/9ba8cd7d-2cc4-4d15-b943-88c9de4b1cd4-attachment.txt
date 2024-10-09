@@ -1,0 +1,3 @@
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: LANGUAGE_OPTION_XPATH
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:31 Clicking on element: CONTINUE_BUTTON_ID
+[32mINFO    [0m Pageobjects.Basepage:Basepage.py:64 Getting text from an elementEFARM_TITLE_ID

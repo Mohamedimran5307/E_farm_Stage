@@ -1,0 +1,52 @@
+2024-02-20 00:06:08,493 - Basepage.py:[31] - [INFO] - Clicking on element: USER_NUMBER_FIELD_ID
+2024-02-20 00:06:08,763 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:aiyappa@gmail.com
+2024-02-20 00:06:09,836 - Basepage.py:[31] - [INFO] - Clicking on element: PASSWORD_FIELD_ID
+2024-02-20 00:06:10,725 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:56001955
+2024-02-20 00:06:12,168 - Basepage.py:[31] - [INFO] - Clicking on element: LOGIN_BUTTON_ID
+2024-02-20 00:06:32,562 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_FARMER_ID
+2024-02-20 00:07:28,301 - Basepage.py:[31] - [INFO] - Clicking on element: USER_NUMBER_FIELD_ID
+2024-02-20 00:07:29,030 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:aiyappa@gmail.com
+2024-02-20 00:07:30,106 - Basepage.py:[31] - [INFO] - Clicking on element: PASSWORD_FIELD_ID
+2024-02-20 00:07:31,204 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:56001955
+2024-02-20 00:07:32,123 - Basepage.py:[31] - [INFO] - Clicking on element: LOGIN_BUTTON_ID
+2024-02-20 00:07:49,296 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_FARMER_ID
+2024-02-20 00:14:51,249 - Basepage.py:[31] - [INFO] - Clicking on element: USER_NUMBER_FIELD_ID
+2024-02-20 00:14:51,622 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:aiyappa@gmail.com
+2024-02-20 00:14:52,529 - Basepage.py:[31] - [INFO] - Clicking on element: PASSWORD_FIELD_ID
+2024-02-20 00:14:53,417 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:56001955
+2024-02-20 00:14:54,359 - Basepage.py:[31] - [INFO] - Clicking on element: LOGIN_BUTTON_ID
+2024-02-20 00:15:15,122 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_FARMER_ID
+2024-02-20 00:15:17,435 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_ADD_FARMER_ID
+2024-02-20 00:17:39,161 - Basepage.py:[31] - [INFO] - Clicking on element: USER_NUMBER_FIELD_ID
+2024-02-20 00:17:39,554 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:aiyappa@gmail.com
+2024-02-20 00:17:40,530 - Basepage.py:[31] - [INFO] - Clicking on element: PASSWORD_FIELD_ID
+2024-02-20 00:17:41,661 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:56001955
+2024-02-20 00:17:42,619 - Basepage.py:[31] - [INFO] - Clicking on element: LOGIN_BUTTON_ID
+2024-02-20 00:18:01,418 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_FARMER_ID
+2024-02-20 00:18:03,656 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_ADD_FARMER_ID
+2024-02-20 00:18:11,230 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_VILLAGE_ID
+2024-02-20 00:18:25,271 - Basepage.py:[31] - [INFO] - Clicking on element: LOCATION_NEXT_BUTTON_ID
+2024-02-20 00:18:32,317 - Basepage.py:[31] - [INFO] - Clicking on element: SELECT_DEVELOPMENT_GROUP_ID
+2024-02-20 00:18:41,367 - Basepage.py:[31] - [INFO] - Clicking on element: FARMER_NAME_ID
+2024-02-20 00:18:43,392 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:ydevutnv
+2024-02-20 00:18:44,649 - Basepage.py:[31] - [INFO] - Clicking on element: FATHER_NAME_ID
+2024-02-20 00:18:46,546 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:jenomfpw
+2024-02-20 00:18:47,832 - Basepage.py:[31] - [INFO] - Clicking on element: GRANDFATHER_NAME_ID
+2024-02-20 00:18:49,747 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:vbxfxltj
+2024-02-20 00:18:56,371 - Basepage.py:[31] - [INFO] - Clicking on element: GENDER_DROP_DOWN_ID
+2024-02-20 00:19:09,292 - Basepage.py:[31] - [INFO] - Clicking on element: AGE_ID
+2024-02-20 00:19:11,424 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:83
+2024-02-20 00:19:13,216 - Basepage.py:[31] - [INFO] - Clicking on element: NATIONAL_ID_FIRST_BOX_ID
+2024-02-20 00:19:14,476 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:5765
+2024-02-20 00:19:16,243 - Basepage.py:[31] - [INFO] - Clicking on element: NATIONAL_ID_SECOND_BOX_ID
+2024-02-20 00:19:17,189 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:0653
+2024-02-20 00:19:18,323 - Basepage.py:[31] - [INFO] - Clicking on element: NATIONAL_ID_THIRD_BOX_ID
+2024-02-20 00:19:19,317 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:3260
+2024-02-20 00:19:21,162 - Basepage.py:[31] - [INFO] - Clicking on element: CONTACT_INFORMATION_ID
+2024-02-20 00:19:25,632 - Basepage.py:[31] - [INFO] - Clicking on element: PHONE_NUMBER_FIELD_ID
+2024-02-20 00:19:27,400 - Basepage.py:[54] - [INFO] - Typing in an elementEntering the value as:0768655771
+2024-02-20 00:19:28,390 - Basepage.py:[31] - [INFO] - Clicking on element: CHECK_BOX_TELEGRAM_ID
+2024-02-20 00:19:30,012 - Basepage.py:[31] - [INFO] - Clicking on element: PREFERRED_LANGUAGE_ID
+2024-02-20 00:19:42,223 - Basepage.py:[31] - [INFO] - Clicking on element: HOUSEHOLD_INFORMATION_ID
+2024-02-20 00:19:44,137 - Basepage.py:[31] - [INFO] - Clicking on element: MARTIAL_STATUS_ID
+2024-02-20 00:19:58,724 - Basepage.py:[31] - [INFO] - Clicking on element: HOUSEHOLD_TYPE_ID

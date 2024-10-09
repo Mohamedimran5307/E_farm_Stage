@@ -36,11 +36,11 @@ class Basepage:
 
     def do_click_index(self, locator, index):
         if str(locator).endswith("_XPATH"):
-            self.driver.find_elements_by_xpath(configReader.readConfig("locators", locator))[index].click()
+            self.driver.find_element(MobileBy.ID, configReader.readConfig("locators", locator))[index].click()
         elif str(locator).endswith("_ACCESSIBILITYID"):
-            self.driver.find_elements_by_accessibility_id(configReader.readConfig("locators", locator))[index].click()
+            self.driver.find_element(MobileBy.ID, configReader.readConfig("locators", locator))[index].click()
         elif str(locator).endswith("_ID"):
-            self.driver.find_elements_by_id(configReader.readConfig("locators", locator))[index].click()
+            self.driver.find_elements(MobileBy.ID, configReader.readConfig("locators", locator))[index].click()
         log.logger.info("Clicking on element" + str(locator) + "with index:" + str(index))
 
     def do_type(self, locator, value):
@@ -64,77 +64,184 @@ class Basepage:
         log.logger.info("Getting text from an element" + str(locator))
         return text
 
-    # Clear the Room database of the Android application
-    def clear_room_database(self, package_name, database_name):
-        # Stop the app to ensure the database is not in use
-        self.driver.execute_script("mobile: shell", {"command": "am force-stop", "args": {"target": package_name}})
-
-        # Clear the Room database by deleting its corresponding database file
-        clear_command = f"rm -rf /data/data/{package_name}/databases/{database_name}"
-        self.driver.execute_script("mobile: shell",
-                                   {"command": "run-as", "args": {"target": package_name, "command": clear_command}})
-
-        # Start the app again after clearing the database
-        # activity_name = "com.digitalgreen.org.d2fo.ui.activity.SplashActivity"
-        # self.driver.start_activity(package_name, activity_name)
-
     def do_swipeUp(self, howManySwipes, driver):
         for i in range(1, howManySwipes + 1):
             driver.swipe(514, 600, 514, 200, 1000)
 
-    def do_tap_dev_group_type(self):
+    def do_tap_gender(self):
 
         # Define x and y coordinates
-        x = 200  #
-        y = 434  #
+        x = 125  #
+        y = 662  #
         # Create a TouchAction instance
         touch_action = TouchAction(self.driver)
 
         # Perform tap action on the specified x and y coordinates
         touch_action.tap(x=x, y=y).perform()
 
-    def do_tap_dev_group_village(self):
+    #
+    def do_tap_producer_group(self):
 
         # Define x and y coordinates
-        x = 100  #
-        y = 400  #
-        # Create a TouchAction instance
-        touch_action = TouchAction(self.driver)
-
-        # Perform tap action on the specified x and y coordinates
-        touch_action.tap(x=x, y=y).perform()
-
-    def do_tap_add_farmer_village(self):
-
-        # Define x and y coordinates
-        x1 = 200  #
-        y2 = 670  #
+        x = 125  #
+        y = 776  #
         # Create a TouchAction instance
         touch_action = TouchAction(self.driver)
         time.sleep(5)
+        # Perform tap action on the specified x and y coordinates
+        touch_action.tap(x=x, y=y).perform()
+
+    #
+    def do_tap_select_District(self):
+
+        # Define x and y coordinates
+        x1 = 177  #
+        y2 = 432  #
+        # Create a TouchAction instance
+        touch_action = TouchAction(self.driver)
+        time.sleep(3)
 
         # Perform tap action on the specified x and y coordinates
         i = touch_action.tap(x=x1, y=y2).perform()
         print("imran", i)
 
-    def do_tap_select_dev_group(self):
+    #
+    def do_tap_select_Block(self):
 
         # Define x and y coordinates
-        x3 = 70  #
-        y4 = 383  #
+        x3 = 150  #
+        y4 = 434  #
         # Create a TouchAction instance
         touch_action = TouchAction(self.driver)
 
         # Perform tap action on the specified x and y coordinates
         touch_action.tap(x=x3, y=y4).perform()
 
-    def do_tap_select_gender(self):
+    #
+    def do_tap_select_Village(self):
 
         # Define x and y coordinates
-        x5 = 200  #
-        y6 = 485  #
+        x5 = 150  #
+        y6 = 382  #
         # Create a TouchAction instance
         touch_action = TouchAction(self.driver)
         time.sleep(5)
         # Perform tap action on the specified x and y coordinates
         touch_action.tap(x=x5, y=y6).perform()
+
+    #
+    def do_tap_select_FLW(self):
+
+        # Define x and y coordinates
+        x7 = 152  #
+        y8 = 226  #
+        # Create a TouchAction instance
+        touch_action = TouchAction(self.driver)
+        time.sleep(5)
+        # Perform tap action on the specified x and y coordinates
+        touch_action.tap(x=x7, y=y8).perform()
+
+    #
+    def do_tap_select_smartphone(self):
+
+        # Define x and y coordinates
+        x9 = 114  #
+        y10 = 474  #
+        # Create a TouchAction instance
+        touch_action = TouchAction(self.driver)
+        time.sleep(5)
+        # Perform tap action on the specified x and y coordinates
+        touch_action.tap(x=x9, y=y10).perform()
+
+    #
+    def do_tap_select_Education(self):
+
+        # Define x and y coordinates
+        x11 = 192  #
+        y12 = 224  #
+        # Create a TouchAction instance
+        touch_action = TouchAction(self.driver)
+        time.sleep(5)
+        # Perform tap action on the specified x and y coordinates
+        touch_action.tap(x=x11, y=y12).perform()
+
+    #
+    def do_tap_select_UOM(self):
+
+        # Define x and y coordinates
+        x13 = 432  #
+        y14 = 890  #
+        # Create a TouchAction instance
+        touch_action = TouchAction(self.driver)
+        time.sleep(5)
+        # Perform tap action on the specified x and y coordinates
+        touch_action.tap(x=x13, y=y14).perform()
+
+    #
+    def do_tap_select_UOM_units(self):
+
+        # Define x and y coordinates
+        x15 = 437  #
+        y16 = 889  #
+        # Create a TouchAction instance
+        touch_action = TouchAction(self.driver)
+        time.sleep(5)
+        # Perform tap action on the specified x and y coordinates
+        touch_action.tap(x=x15, y=y16).perform()
+
+    #
+    def do_tap_select_Reason(self):
+
+        # Define x and y coordinates
+        x17 = 127  #
+        y18 = 1199  #
+        # Create a TouchAction instance
+        touch_action = TouchAction(self.driver)
+        time.sleep(5)
+        # Perform tap action on the specified x and y coordinates
+        touch_action.tap(x=x17, y=y18).perform()
+
+    #
+    def do_select_Product_category_type(self):
+
+        # Define x and y coordinates
+        x19 = 110  #
+        y20 = 865  #
+        # Create a TouchAction instance
+        touch_action = TouchAction(self.driver)
+        time.sleep(5)
+        # Perform tap action on the specified x and y coordinates
+        touch_action.tap(x=x19, y=y20).perform()
+    #
+    # def do_tap_select_crop_being_cultivated(self):
+    #
+    #     # Define x and y coordinates
+    #     x21 = 99  #
+    #     y22 = 129  #
+    #     # Create a TouchAction instance
+    #     touch_action = TouchAction(self.driver)
+    #     time.sleep(5)
+    #     # Perform tap action on the specified x and y coordinates
+    #     touch_action.tap(x=x21, y=y22).perform()
+    #
+    # def do_tap_select_livestock_type(self):
+    #
+    #     # Define x and y coordinates
+    #     x23 = 101  #
+    #     y24 = 282  #
+    #     # Create a TouchAction instance
+    #     touch_action = TouchAction(self.driver)
+    #     time.sleep(5)
+    #     # Perform tap action on the specified x and y coordinates
+    #     touch_action.tap(x=x23, y=y24).perform()
+    #
+    # def do_tap_select_livestock_breed(self):
+    #
+    #     # Define x and y coordinates
+    #     x25 = 129  #
+    #     y26 = 129  #
+    #     # Create a TouchAction instance
+    #     touch_action = TouchAction(self.driver)
+    #     time.sleep(5)
+    #     # Perform tap action on the specified x and y coordinates
+    #     touch_action.tap(x=x25, y=y26).perform()
